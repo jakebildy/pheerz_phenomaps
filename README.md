@@ -1,2 +1,2 @@
-# pheerz_phenomaps
-SVAI Undiagnosed
+# pheerz phenomaps
+Developed in 36 hours at SVAI Undiagnosed
